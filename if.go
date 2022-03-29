@@ -9,8 +9,8 @@ func main() {
 	number1 := 17
 	number2 := 24
 
-	greaterThanCheck(number1, number2)
 	//Insert your code here
+	greaterThanCheck(number1, number2)
 	//Hint: You may wish to make use of strconv.Itoa to convert int to string
 }
 
