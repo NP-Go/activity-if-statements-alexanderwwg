@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	number1 := 55
+	number1 := 17
 	number2 := 24
 	resultMessage := "No outcome."
 	//Insert your code here
